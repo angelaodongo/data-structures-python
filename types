@@ -1,0 +1,42 @@
+BUILT IN:
+>>List 
+    - are values separated by a comma and in between box brackets [1,2,3]
+    -can store different data types
+    - are ordered
+    - can access elements using indexing
+    - can use negative indexing
+    - can be nested
+    - are mutable, i.e one can use several methods on them
+    - are dynamic, i.e. can grow/shrink
+>>tuple
+    - are values separated by a comma and in between parentheses (1,2,3)
+    - to create a tuple include a omma after the opperator
+    - are immutable, cannot be modified
+    - stores data of different types
+    - uses indexing to access elements from the tuple
+    - can use negative indexing
+    - can be nested
+    - are faster than lists, help in preventing accidental data modification
+>>set
+    - is a collection of unique elements: s = set() or s = set("hello") <- repeated elements are ignored or s = set([1,2,3,4]) or s2 = {1,2,3,4}
+    - are unordered
+    - are mutable
+    - can contain immutable objects as elements
+    - cannot be nested
+    - 
+>>dictionary
+    - SYNTAX: Dictionary_name = {key1:value1, key2:value2...}
+    - keys are unique and can't be duplicate
+    - we cant use mutable data types as keys, i.e. lists
+    - are unordered
+    - values are accessed using the key
+    - can be nested
+    - another dictionary's value can be used as a value in a dictionary
+
+USER DEFINED:
+>>stack
+>>queue
+>>linked list
+>>tree
+>>graph
+
